@@ -1,0 +1,36 @@
+.even{
+            background-color: #eaeaea;
+        }
+        .odd{
+            background-color: #f7f7f7;
+        }
+        .even, .odd {
+            padding: 15px;
+            margin: 0px;
+        }
+        .ratings {
+            text-align: right;
+        }
+        .preview_button {
+            margin: 2 2 2 auto;
+        }
+        div#thisPreviewResults {
+            padding: 15px;
+        }
+        .rightBox {
+        }
+        textarea {
+            width: 99%;
+            min-height: 50px;
+        }
+        .left-personality {
+        width: 70px;
+        display: inline-block;
+        font-size: 9pt;
+    }
+    .right-personality {
+        display: inline-block;
+        margin-left: 10px;
+    }
+    .personality-container {
+    }
